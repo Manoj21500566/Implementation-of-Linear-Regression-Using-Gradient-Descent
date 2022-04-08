@@ -59,6 +59,8 @@ plt.ylabel("loss")
 ```
 
 ## Output:
+![M1](https://user-images.githubusercontent.com/94588708/162373751-05b97996-625d-49a3-a097-df4657f4486c.png)
+![M2](https://user-images.githubusercontent.com/94588708/162373760-65a91250-19dd-4637-bde1-5e582426472f.png)
 
 
 
