@@ -16,6 +16,7 @@ To write a program to implement the linear regression using gradient descent.
 6.Plot the graph respect to hours and scores using scatter plot function.
 
 ## Program:
+~~~
 
 Program to implement the linear regression using gradient descent.
 Developed by: Manoj M
@@ -92,7 +93,7 @@ print("For population = 35,000,we predict a profit of $"+str(round(predict1,0)))
 predict2=predict(np.array([1,7]),theta)*10000
 print("For population = 70,000, we predict a profict of $"+str(round(predict2,0)))
 
-
+~~~
 
 ## Output:
 
